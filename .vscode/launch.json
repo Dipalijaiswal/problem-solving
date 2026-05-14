@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClinicAppointmentSystem",
+            "request": "launch",
+            "mainClass": "ClinicAppointmentSystem.ClinicAppointmentSystem",
+            "projectName": "Programming-Practice_b3d6cc7e"
+        },
+        {
+            "type": "java",
             "name": "input",
             "request": "launch",
             "mainClass": "input",
